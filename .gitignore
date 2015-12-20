@@ -1,0 +1,5 @@
+.bundle
+.rbenv-version
+.ruby-version
+.env
+.env.*
